@@ -1,6 +1,9 @@
-# Jhonevergallegoate_PI_DA-02
+# <center>Jhonevergallegoate_PI_DA-02</center>
 
-# Análisis del Sector de Telecomunicaciones en Argentina
+# <center>Análisis del Sector de Telecomunicaciones en Argentina</center>
+
+
+![Alt text](InternetUniversal.jpg)
 
 ------------------------------------------------------------------------
 
