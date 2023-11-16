@@ -1,10 +1,3 @@
-# Jhonevergallegoate_PI_DA_02
-
-Si bien GitHub utiliza un lenguaje de marcado llamado Markdown para formatear los README, el código HTML que proporcioné anteriormente puede no renderizar correctamente en GitHub, ya que GitHub no permite la ejecución completa de código HTML y estilos CSS en los README.
-
-En lugar de eso, te proporcionaré una versión en Markdown que debería ser compatible con GitHub. Markdown es un lenguaje de marcado ligero y es comúnmente utilizado para formatear texto en plataformas como GitHub.
-
-```markdown
 # Informe de Análisis del Sector de Telecomunicaciones en Argentina
 
 ## Exploración General
@@ -56,4 +49,3 @@ El sector de telecomunicaciones en Argentina experimenta un crecimiento positivo
 7. **Gestión de Ingresos Estacional:** Implementar estrategias financieras para gestionar la estacionalidad en los ingresos trimestrales, permitiendo una planificación más efectiva y sostenible.
 
 Al abordar estas recomendaciones, se puede fortalecer la posición del sector de las telecomunicaciones en Argentina, promoviendo un crecimiento equitativo y sostenible, y mejorando la calidad de vida de la población a través de un acceso eficiente y amplio a servicios de Internet.
-```
