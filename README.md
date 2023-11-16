@@ -1,5 +1,6 @@
 # Análisis del Sector de Telecomunicaciones en Argentina
 
+------------------------------------------------------------------------
 ## INFORME:
 
 ## Exploración General
