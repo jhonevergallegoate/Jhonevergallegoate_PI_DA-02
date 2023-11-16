@@ -114,6 +114,16 @@ Al abordar estas recomendaciones, se puede fortalecer la posición del sector de
 
 ------------------------------------------------------------------------
 
+### Acceso Rápido a Archivos Relevantes:
+
+1. [**DATA**](DATA): Archivo CSV con los datos del sector de telecomunicaciones en Argentina.
+
+2. [**DASHBOARDS**](DASHBOARDS): Archivo para el dashboard en Power BI.
+
+3. [**EDA.ipynb**](EDA.ipynb): Notebook Jupyter con el código de Python para el análisis exploratorio de datos.
+
+------------------------------------------------------------------------
+
 ## CONTACTO:
 
 - Autor: Jhon Ever Gallego Atehortua.
