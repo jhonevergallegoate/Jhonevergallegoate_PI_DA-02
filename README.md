@@ -37,7 +37,12 @@ El proyecto se enfoca en analizar datos del acceso a Internet en Argentina, disp
 
 - **Análisis Exploratorio de Datos:** Busca discernir tendencias y patrones significativos en el acceso a Internet en Argentina. Se utilizan herramientas estadísticas y visuales para comprender la evolución temporal, disparidades geográficas y preferencias tecnológicas.
 
-- **Análisis de los KPIs propuestos, y el desarrollo de un segundo:** KPI.
+- **Análisis de los KPIs propuestos, y el desarrollo de un segundo:** Los KPIs (Key Performance Indicator) son métricas específicas y cuantificables utilizadas para medir el rendimiento de una organización, un proceso o una actividad en relación con sus objetivos estratégicos. Estos indicadores son esenciales para evaluar el éxito o el progreso hacia metas establecidas y permiten a las empresas tomar decisiones informadas basadas en datos concretos.
+
+En este proyecto trabajaremos con 3 KPIs. 
+- KPI 1: Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia --> Este KPI proporciona información sobre el cambio porcentual en la penetración de Internet en cada provincia durante un período determinado.
+- KPI 2: Velocidad Promedio de Conexión a Internet por Hogar --> Evalúa la calidad del servicio en términos de la velocidad experimentada por los usuarios.
+- KPI 3: Ingresos financieros obtenidos por el sector de telecomunicaciones en un trimestre --> Evalúa el rendimiento financiero del sector en periodos específicos.
 
 - **Dashboard:** Se crea un dashboard interactivo que proporciona una visualización dinámica y accesible de los datos analizados. Además, se genera un informe del análisis que ofrece insights y conclusiones derivadas del estudio realizado.
 
@@ -130,4 +135,4 @@ Al abordar estas recomendaciones, se puede fortalecer la posición del sector de
 
 **Aclaración Importante:**
 
-Queremos enfatizar que los proyectos propuestos tienen exclusivamente fines pedagógicos. Estos buscan simular un entorno laboral, abordando diversas temáticas que se ajusten a la realidad del campo laboral de un desarrollador. Es crucial destacar que dichos proyectos no necesariamente reflejan la filosofía y valores de la organización. Por lo tanto, no deben ser tomados como una representación de la realidad de la empresa.
+Quiero enfatizar que los proyectos propuestos tienen exclusivamente fines pedagógicos. Estos buscan simular un entorno laboral, abordando diversas temáticas que se ajusten a la realidad del campo laboral de un desarrollador. Es crucial destacar que dichos proyectos no necesariamente reflejan la filosofía y valores de la organización. Por lo tanto, no deben ser tomados como una representación de la realidad de la empresa.
