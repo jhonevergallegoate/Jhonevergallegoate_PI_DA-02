@@ -104,6 +104,7 @@ Al abordar estas recomendaciones, se puede fortalecer la posición del sector de
 - Python: (Numpy, Pandas, Matplotlib, Seaborn, Plotly).
 - Jupyter Notebook.
 - Power BI.
+- Github y Git.
 
 ------------------------------------------------------------------------
 
@@ -115,7 +116,7 @@ Al abordar estas recomendaciones, se puede fortalecer la posición del sector de
 
 3. [**DASHBOARD/DATA**](DASHBOARD/DATA): Carpeta con los archivos de datos utilizados en el dashboard.
 
-4. [**DASHBOARD**](DASHBOARD/DATA): Carpeta donde se encuentra el dashboard interactivo.
+4. [**DASHBOARD**](DASHBOARD): Carpeta donde se encuentra el dashboard interactivo.
 
 ------------------------------------------------------------------------
 
