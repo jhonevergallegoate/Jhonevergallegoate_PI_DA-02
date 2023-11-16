@@ -96,3 +96,26 @@ El sector de telecomunicaciones en Argentina experimenta un crecimiento positivo
 7. **Gestión de Ingresos Estacional:** Implementar estrategias financieras para gestionar la estacionalidad en los ingresos trimestrales, permitiendo una planificación más efectiva y sostenible.
 
 Al abordar estas recomendaciones, se puede fortalecer la posición del sector de las telecomunicaciones en Argentina, promoviendo un crecimiento equitativo y sostenible, y mejorando la calidad de vida de la población a través de un acceso eficiente y amplio a servicios de Internet.
+
+------------------------------------------------------------------------
+
+## HERRAMIENTAS UTILIZADAS:
+
+- Python: (Numpy, Pandas, Matplotlib, Seaborn, Plotly).
+- Jupyter Notebook.
+- Power BI.
+
+------------------------------------------------------------------------
+
+## ESTRUCTURA DEL REPOSITORIO:
+- **Carpeta DATA:** Contiene los archivos de datos utilizados en el proyecto.
+- **Carpeta DASHBOARDS:** Contiene la data para la creación del dashboard en Power BI.
+- **EDA.ipynb:** Contiene el código de Python utilizado para el análisis exploratorio de datos.
+
+------------------------------------------------------------------------
+
+## CONTACTO:
+
+- Autor: Jhon Ever Gallego Atehortua.
+- Linkedin: https://www.linkedin.com/in/jhonevergallegoate/
+- Github: https://github.com/jhonevergallegoate
