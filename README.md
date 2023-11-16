@@ -1,6 +1,7 @@
 # Análisis del Sector de Telecomunicaciones en Argentina
 
 ------------------------------------------------------------------------
+
 ## INFORME:
 
 ## Exploración General
@@ -21,6 +22,8 @@ La calidad del servicio, medida por la velocidad media de bajada, ha experimenta
 
 El análisis de los ingresos trimestrales muestra un crecimiento financiero sostenido, con un punto culminante en el último trimestre de 2022. La estacionalidad en los ingresos destaca la importancia de estrategias para gestionar variaciones y mantener un crecimiento constante.
 
+------------------------------------------------------------------------
+
 ## CONCLUSIONES:
 
 El sector de telecomunicaciones en Argentina experimenta un crecimiento positivo, pero desafíos persistentes requieren atención. Las desigualdades geográficas y tecnológicas demandan inversiones y políticas específicas para garantizar un acceso equitativo y mejorar la calidad del servicio en todo el país. El cambio tecnológico y la creciente demanda de velocidades más altas ofrecen oportunidades de crecimiento, pero es esencial abordar las disparidades existentes para lograr un desarrollo equitativo en el sector.
@@ -32,6 +35,8 @@ El sector de telecomunicaciones en Argentina experimenta un crecimiento positivo
 - **Cambios Tecnológicos:** La transición hacia tecnologías más avanzadas, como la fibra óptica, indica una evolución positiva en las preferencias de los usuarios. Este cambio, sin embargo, requiere una gestión cuidadosa para garantizar una transición suave y equitativa.
 
 - **Mejoras en la Calidad de Servicio:** A pesar del crecimiento, persisten desafíos en la calidad del servicio, como la presencia de conexiones más lentas y disparidades en la velocidad entre provincias. Es esencial seguir mejorando la infraestructura para garantizar una experiencia de usuario uniforme en todo el país.
+
+------------------------------------------------------------------------
 
 ## RECOMENDACIONES:
 
