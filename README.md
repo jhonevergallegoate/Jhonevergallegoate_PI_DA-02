@@ -6,6 +6,27 @@
 
 ------------------------------------------------------------------------
 
+## DESCRIPCIÓN DEL PROYECTO:
+
+La ejecución de este proyecto se desarrolla desde la perspectiva de un analista de datos enfocado en el análisis del sector de telecomunicaciones en Argentina. El enfoque central es analizar datos relacionados con la conectividad y el acceso a servicios de telecomunicaciones en diferentes regiones del país. El propósito principal es proporcionar información crucial que respalde la adopción de medidas destinadas a mejorar la equidad en el acceso y la calidad de los servicios de telecomunicaciones.
+
+**Objetivos del Análisis:**
+- **Equidad en la Conectividad:** Evaluar la equidad en el acceso a Internet y servicios de telecomunicaciones en distintas regiones del país, identificando disparidades y áreas de mejora.
+
+- **Cambio Tecnológico:** Analizar patrones de cambio tecnológico en la adopción de servicios, destacando preferencias de los usuarios y la transición hacia tecnologías más avanzadas.
+
+- **Calidad de Servicio:** Evaluar la calidad de servicio en términos de velocidad de conexión, identificando áreas con conexiones más lentas y proponiendo mejoras.
+
+- **Oportunidades de Crecimiento:** Identificar oportunidades de crecimiento en el sector, considerando la demanda de velocidades más altas y las preferencias emergentes de los usuarios.
+
+**Importancia del Proyecto:**
+
+- El análisis del sector de telecomunicaciones desplegado en este proyecto es esencial para respaldar decisiones estratégicas y políticas que impulsen la equidad en el acceso a servicios de conectividad en todo el país. La colaboración con diversas entidades del sector asegura la relevancia y aplicabilidad de los resultados obtenidos.
+
+- Este informe proporciona una visión general del proyecto, destacando su relevancia y los objetivos clave que orientan el análisis de datos en el sector de telecomunicaciones en Argentina. La combinación de la experiencia del analista de datos y la colaboración con entidades del sector permite obtener perspectivas sólidas y acciones concretas para mejorar la conectividad a nivel nacional.
+
+------------------------------------------------------------------------
+
 ## INFORME:
 
 ## Exploración General
