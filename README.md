@@ -42,7 +42,8 @@ El proyecto se enfoca en analizar datos del acceso a Internet en Argentina, disp
 - **Dashboard:** Se crea un dashboard interactivo que proporciona una visualización dinámica y accesible de los datos analizados. Además, se genera un informe del análisis que ofrece insights y conclusiones derivadas del estudio realizado.
 
 ------------------------------------------------------------------------
-## INFORME:
+
+# <p align="center">INFORME</p>
 
 ## Exploración General
 
