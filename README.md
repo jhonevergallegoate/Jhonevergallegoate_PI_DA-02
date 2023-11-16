@@ -27,8 +27,21 @@ La ejecución de este proyecto se desarrolla desde la perspectiva de un analista
 
 ![Alt text](Mapa.jpg)
 
-------------------------------------------------------------------------
+## DESARROLLO DEL PROYECTO:
 
+El proyecto se enfoca en analizar datos del acceso a Internet en Argentina, disponibles en el sitio oficial de la ENACOM: https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/ Acceso a Internet en Argentina. El objetivo es realizar un proceso de Extracción, Transformación y Carga (ETL) para consolidar y depurar la información, seguido por un análisis exploratorio de datos.
+
+- **Fuentes de Datos:** La fuente principal es el portal oficial de la ENACOM, asegurando autenticidad y actualidad. La variedad de datos permite un análisis exhaustivo del acceso a Internet en el país.
+
+- **Proceso ETL:** Se implementa ETL para garantizar integridad y coherencia de datos. Durante esta fase, se consolida la información dispersa y se depuran posibles inconsistencias.
+
+- **Análisis Exploratorio de Datos:** Busca discernir tendencias y patrones significativos en el acceso a Internet en Argentina. Se utilizan herramientas estadísticas y visuales para comprender la evolución temporal, disparidades geográficas y preferencias tecnológicas.
+
+- **Análisis de los KPIs propuestos, y el desarollo de un segundo:** KPI.
+
+- **Dashboard:** Se crea un dashboard interactivo que proporciona una visualización dinámica y accesible de los datos analizados. Además, se genera un informe del análisis que ofrece insights y conclusiones derivadas del estudio realizado.
+
+------------------------------------------------------------------------
 ## INFORME:
 
 ## Exploración General
