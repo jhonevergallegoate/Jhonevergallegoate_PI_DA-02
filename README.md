@@ -25,6 +25,8 @@ La ejecución de este proyecto se desarrolla desde la perspectiva de un analista
 
 - Este informe proporciona una visión general del proyecto, destacando su relevancia y los objetivos clave que orientan el análisis de datos en el sector de telecomunicaciones en Argentina. La combinación de la experiencia del analista de datos y la colaboración con entidades del sector permite obtener perspectivas sólidas y acciones concretas para mejorar la conectividad a nivel nacional.
 
+![Alt text](Mapa.jpg)
+
 ------------------------------------------------------------------------
 
 ## INFORME:
