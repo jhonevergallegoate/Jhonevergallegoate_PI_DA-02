@@ -107,18 +107,11 @@ Al abordar estas recomendaciones, se puede fortalecer la posición del sector de
 
 ------------------------------------------------------------------------
 
-## ESTRUCTURA DEL REPOSITORIO:
-- **Carpeta DATA:** Contiene los archivos de datos utilizados en el proyecto.
-- **Carpeta DASHBOARDS:** Contiene la data para la creación del dashboard en Power BI.
-- **EDA.ipynb:** Contiene el código de Python utilizado para el análisis exploratorio de datos.
-
-------------------------------------------------------------------------
-
-### Acceso Rápido a Archivos Relevantes:
+### ESTRUCTURA DEL REPOSITORIO:
 
 1. [**DATA**](DATA): Archivo CSV con los datos del sector de telecomunicaciones en Argentina.
 
-2. [**DASHBOARDS**](DASHBOARDS): Archivo para el dashboard en Power BI.
+2. [**DASHBOARD**](DASHBOARD): Archivo para el dashboard en Power BI.
 
 3. [**EDA.ipynb**](EDA.ipynb): Notebook Jupyter con el código de Python para el análisis exploratorio de datos.
 
