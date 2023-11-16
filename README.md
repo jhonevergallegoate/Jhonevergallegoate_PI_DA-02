@@ -130,8 +130,4 @@ Al abordar estas recomendaciones, se puede fortalecer la posición del sector de
 
 **Aclaración Importante:**
 
-Queremos enfatizar que los proyectos propuestos por el equipo de Henry tienen exclusivamente fines pedagógicos. Estos buscan simular un entorno laboral, abordando diversas temáticas que se ajusten a la realidad del campo laboral de un desarrollador. Es crucial destacar que dichos proyectos no necesariamente reflejan la filosofía y valores de la organización.
-
-Es importante subrayar que Henry ni fomenta ni recomienda a los alumnos ni a cualquier persona que lea los repositorios (y entregas de proyectos) que tomen acciones basadas en los datos que pudieron recopilar o no. Toda la información presentada y los resultados obtenidos en los proyectos nunca deben considerarse para la toma real de decisiones, especialmente en temas sensibles como finanzas, salud, política, entre otros.
-
-Este mensaje tiene como objetivo recordar la naturaleza educativa y simulada de los proyectos, instando a la prudencia y ética al interactuar con los datos y resultados obtenidos en este contexto.
+Queremos enfatizar que los proyectos propuestos tienen exclusivamente fines pedagógicos. Estos buscan simular un entorno laboral, abordando diversas temáticas que se ajusten a la realidad del campo laboral de un desarrollador. Es crucial destacar que dichos proyectos no necesariamente reflejan la filosofía y valores de la organización. Por lo tanto, no deben ser tomados como una representación de la realidad de la empresa.
