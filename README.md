@@ -66,7 +66,7 @@ La calidad del servicio, medida por la velocidad media de bajada, ha experimenta
 
 El análisis de los ingresos trimestrales muestra un crecimiento financiero sostenido, con un punto culminante en el último trimestre de 2022. La estacionalidad en los ingresos destaca la importancia de estrategias para gestionar variaciones y mantener un crecimiento constante.
 
-# Provincias que podrían necesitar Mejoras en Acceso a Internet
+## Provincias que podrían necesitar Mejoras en Acceso a Internet
 
 La identificación de provincias que podrían necesitar mejoras en términos de acceso a Internet y calidad de servicio depende de varios factores. Aquí hay algunas observaciones y recomendaciones específicas:
 
